@@ -6,3 +6,4 @@ y_value = 10
 print("This is y: %d" % y_value)
 z_value = x_value * y_value
 print("The answer to x * y is : %d" % z_value)
+print("This is another test")
